@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning *Artificial intelligence and machine learning*
 
-- 💬 Ask me about *Full stack development, python programming,flutter*
+- 💬 Ask me about *Full stack development, python programming,Machine Learning*
 
 - 📫 How to reach me *abinsanilkumar@gmail.com*
 
